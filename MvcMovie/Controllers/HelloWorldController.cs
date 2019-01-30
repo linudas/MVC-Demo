@@ -6,7 +6,7 @@ namespace MvcMovie.Controllers
     public class HelloWorldController : Controller
     {
         // 
-        // GET: /HelloWorld/ 
+        // GET: /HelloWorld/ Linu
 
         public string Index()
         {
